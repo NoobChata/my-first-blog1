@@ -25,7 +25,7 @@ SECRET_KEY = 's5(-ma_obc42h+5zhhp^c&0^c%#=kx%&^x@crdw2=$o9+qmbc%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['noobchata.pythonanywhere.com']
 
 
 # Application definition
